@@ -1,0 +1,5 @@
+Búsqueda Lineal: La búsqueda lineal es un algoritmo muy sencillo de búsqueda. En este caso, una busqueda secuencias es llevada acabo sobre todos los elementos uno por uno. Cada elemento es chequeado y si una coincidencia es encontrada, entonces ese elemento es devuelto, caso contrario la búsqueda continua.
+
+Búsqueda Binaria: La búsqueda binaria es un algoritmo eficiente para encontrar un elemento desde una lista ordenada. Esta funciona dividiendo repetidamente en la mitad a la lista que puede contener el elemento, hasta que reduzca las posibles locaciones a una sola. Es decir, divide el elemento en sublistas repetidamente hasta encontrar el elemento buscado.
+
+Una diferencia crucial dependerá de la lista con la que se trabaje. La búsqueda binaria requiere que la lista esté ordenada para funcionar eficientemente, ya que se basa en la premisa del "divide y vencerás" comaprará los valores de cada elemento y buscará entre el menor y/o el mayor en el que se posiciona.
